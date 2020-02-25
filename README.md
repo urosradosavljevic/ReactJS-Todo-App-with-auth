@@ -9,7 +9,7 @@
   * Material UI
   * Firebase
   
-** Account with data: **
+**Account with data:**
 email: pozdrav@mail.com
 password: pozdravpozdrav
 
