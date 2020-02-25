@@ -6,6 +6,6 @@
   * Firebase authentication
 * **Technologies used:** 
   * ReactJS 
-  * MaterializeUI
+  * Material UI
   * Firebase
 
